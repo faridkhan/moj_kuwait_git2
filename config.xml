@@ -23,8 +23,7 @@
 
     <icon src="images/icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="images/icon-57.png" gap:platform="ios" width="57" height="57" />
-	<gap:splash src="images/splash.png" />
-
+	
 
 	
    
