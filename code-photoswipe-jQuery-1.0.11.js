@@ -3460,7 +3460,7 @@
 				slideSpeed: 250,
 				swipeThreshold: 50,
 				swipeTimeThreshold: 250,
-				loop: true,
+				loop: false,
 				slideshowDelay: 3000,
 				imageScaleMethod: 'fit', // Either "fit" or "zoom"
 				preventHide: false,
